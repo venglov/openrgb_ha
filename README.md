@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### 2.4
+
+- Brightness is successfully fetched from OpenRGB and passed into HA
+
 ### 2.3
 
 - Add Brazilian language (thanks @LeandroIssa)
